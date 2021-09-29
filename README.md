@@ -5,7 +5,7 @@ I love Linux and all things Free Software. Functional programming is my lifebloo
 languages like Lisp.
 
 Projects I've worked on:
-* [USUFSLC](https://usufslc.com) [GitHub repo](https://github.com/USUFSLC/website-v2)
+* [USUFSLC](https://usufslc.com) [(GitHub repo)](https://github.com/USUFSLC/website-v2)
 * [AssetLyst](https://assetlyst.com)
 * Infrastructure API integration work for [CORE Energy Group](https://coreenergygroup.com/)
 
