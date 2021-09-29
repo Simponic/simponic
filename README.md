@@ -15,6 +15,7 @@ languages like Lisp.
 Projects I've worked on:
 * [USUFSLC](https://usufslc.com) [(GitHub repo)](https://github.com/USUFSLC/website-v2)
 * [AssetLyst](https://assetlyst.com)
+* Infrastructure Payroll features for Maiden Voyage
 * Infrastructure API integration work for [CORE Energy Group](https://coreenergygroup.com/)
 
 Personal projects:
