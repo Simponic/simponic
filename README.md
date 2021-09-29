@@ -1,3 +1,11 @@
+```lisp
+((lambda (is-playing-chess) 
+  (cond 
+    (is-playing-chess 'winning) 
+    (t 'programming))) 
+(y-or-n-p "Playing chess?"))
+```
+
 Hi there! I am currently a part-time web developer at [Maiden Voyage](https://github.com/MaidenVoyageSoftware),
 vice president of the USU Free Software and Linux Club, and a full-time student at Utah State University. 
 
