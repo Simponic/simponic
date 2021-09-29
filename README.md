@@ -9,7 +9,7 @@
 Hi there! I am currently a part-time web developer at [Maiden Voyage](https://github.com/MaidenVoyageSoftware),
 vice president of the USU Free Software and Linux Club, and a full-time student at Utah State University. 
 
-I love Linux and all things Free Software. Functional programming is my lifeblood, and I love learning obscure
+I love math, Linux, and all things Free Software. Functional programming is my lifeblood, and I love playing with obscure languages like 
 languages like Lisp.
 
 Projects I've worked on:
