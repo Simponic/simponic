@@ -20,6 +20,7 @@ Frontend frameworks I am familiar with:
 
 Other technologies:
 * Git
+* Nginx
 * Linux
 * Docker
 * MySQL
@@ -30,6 +31,7 @@ Other technologies:
 Things I use on a daily basis:
 * Artix Linux, Ubuntu
 * Doom Emacs & Vim
+* Emacs Org Mode
 * A custom version of DWM
 * GrapheneOS
 * Zsh

@@ -17,6 +17,11 @@ Projects I've worked on:
 * [AssetLyst](https://assetlyst.com)
 * Infrastructure API integration work for [CORE Energy Group](https://coreenergygroup.com/)
 
+Personal projects:
+* [simponic.xyz](https://simponic.xyz)
+  - A small website I started a while ago to learn more about Nginx and FastCGI
+* Everything else listed here on my GitHub
+
 [Resume](./Resume.pdf)
 
 [More](./README-more.md)
