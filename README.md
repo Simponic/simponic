@@ -11,9 +11,10 @@ Hi there! I am currently the vice president of the USU Free Software and Linux C
 I love math, Linux, and all things Free Software. Functional programming is my lifeblood, and I love playing with obscure languages like 
 languages like Lisp.
 
-Projects I've worked on:
+Projects I've contributed to:
 * [USUFSLC](https://usufslc.com) [(GitHub repo)](https://github.com/USUFSLC/website-v2)
 * [AssetLyst](https://assetlyst.com)
+* [The Huddle](https://codehuddle.org)
 * Infrastructure Payroll features for Maiden Voyage
 * Infrastructure API integration work for [CORE Energy Group](https://coreenergygroup.com/)
 
