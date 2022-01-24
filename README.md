@@ -8,8 +8,7 @@
 
 Hi there! I am currently the vice president of the USU Free Software and Linux Club, and a full-time student at Utah State University. 
 
-I love math, Linux, and all things Free Software. Functional programming is my lifeblood, and I love playing with obscure languages like 
-languages like Lisp.
+I love math, Linux, and all things Free Software. Functional programming is my lifeblood, and I love playing with obscure languages like Lisp or Elixir.
 
 Projects I've contributed to:
 * [USUFSLC](https://usufslc.com) [(GitHub repo)](https://github.com/USUFSLC/website-v2)
