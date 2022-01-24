@@ -1,7 +1,7 @@
 ```lisp
 ((lambda (is-playing-chess) 
   (cond 
-    (is-playing-chess 'winning) 
+    (is-playing-chess 'hopefully-winning) 
     (t 'programming))) 
 (y-or-n-p "Playing chess?"))
 ```
