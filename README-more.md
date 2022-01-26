@@ -1,3 +1,10 @@
+Projects I've worked on:
+* [USUFSLC](https://usufslc.com) [(GitHub repo)](https://github.com/USUFSLC/website-v2)
+* [AssetLyst](https://assetlyst.com)
+* [The Huddle](https://codehuddle.org)
+* Infrastructure Payroll features for Maiden Voyage
+* Infrastructure API integration work for [CORE Energy Group](https://coreenergygroup.com/)
+
 My favorite languages:
 * Common Lisp
 * Elixir
@@ -13,12 +20,12 @@ Backend technologies I am good with:
 * Node.js
 * Django
 
-Frontend frameworks I am familiar with:
+Frontend tech I am familiar with:
 * jQuery
 * Angular
 * Vue
 
-Other technologies:
+Other:
 * Git
 * Nginx
 * Linux
@@ -30,9 +37,8 @@ Other technologies:
 
 Things I use on a daily basis:
 * Artix Linux, Ubuntu
-* Doom Emacs & Vim
-* Emacs Org Mode
-* A custom version of DWM
+* GNU Emacs & Vim
+* StumpWM
 * GrapheneOS
 * Zsh
 
