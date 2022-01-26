@@ -13,3 +13,5 @@ I love math, Linux, and all things Free Software. Functional programming is my l
 [Resume](./Resume.pdf)
 
 [More](./README-more.md)
+
+Was it my email the whole time?
