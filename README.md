@@ -1,9 +1,9 @@
 ```lisp
 ((lambda (playing-chess-p) 
-  (cond 
-    (playing-chess-p 'hopefully-winning) 
-    (t 'programming))) 
-(y-or-n-p "Playing chess?"))
+  (case playing-chess-p 
+    (nil 'programming)
+    (t 'losing)))
+ (y-or-n-p "Playing chess?"))
 ```
 
 Hi! I am currently an SDE intern on the Pinpoint team at AWS, a student at Utah State University, and the vice president of the USU Free Software and Linux Club.
