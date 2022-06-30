@@ -10,6 +10,4 @@ Hi! I am currently an SDE intern on the Pinpoint team at AWS, a student at Utah 
 
 I love math, Linux, and all things Free Software. Functional programming is my lifeblood, and I enjoy playing with languages like Lisp or Elixir.
 
-[Resume](./Resume.pdf)
-
 [More](./README-more.md)
